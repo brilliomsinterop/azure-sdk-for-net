@@ -2,6 +2,10 @@
 - Configuration Manager
 - Management Libraries
   - Compute
+  - 
+- Configuration Manager
+- Management Libraries
+  - Compute
     - Virtual Machines
     - Hosted Services
   - Infrastructure
